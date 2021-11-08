@@ -41,7 +41,7 @@ function process () {
     document.getElementById('midBox').value = '' ; 
     document.getElementById('finalBox').value = '' ; 
     if( total >= 90){
-        p5.innerText ="you are awarded by Gold";
+        p5.innerText ="you are awarded by Golden madel";
     }
 
 }
